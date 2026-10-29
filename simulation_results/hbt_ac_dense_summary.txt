@@ -1,0 +1,11 @@
+IHP SG13G2 HBT Dense AC Analysis
+Data points: 401
+Frequency range: 10000 to 1e+08 Hz
+Reference frequency: 100000 Hz
+Collector magnitude at reference: 0.12618199 V
+Base-to-collector gain at reference: 145.53264 V/V
+Voltage gain at reference: 43.25921 dB
+Estimated magnitude-based -3 dB frequency: 17975386 Hz
+Plots:
+hbt_ac_output_magnitude_dense.png
+hbt_ac_gain_db_dense.png
